@@ -19,6 +19,6 @@ Reach out to me on
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ameyajadhav">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue"></a></p>
 
 📫 ajadhav@stanford.edu
