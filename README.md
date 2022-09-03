@@ -19,4 +19,4 @@ Reach out to me on
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ameyajadhav" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue"></a></p> or 📫 ajadhav@stanford.edu
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue"> or 📫 ajadhav@stanford.edu
