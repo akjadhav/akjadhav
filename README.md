@@ -13,10 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Ameya's GitHub stats](https://github-readme-stats.vercel.app/api?username=akjadhav&show_icons=true&theme=react&count_private=true) &nbsp;&nbsp;&nbsp;&nbsp; ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akjadhav&langs_count=4)
-
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/akjadhav/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://githubtrends.io)
-
+![Ameya's GitHub stats](https://github-readme-stats.vercel.app/api?username=akjadhav&show_icons=true&theme=react&count_private=true) &nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/akjadhav/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://githubtrends.io)
 
 
 Reach out to me on
@@ -26,3 +23,5 @@ Reach out to me on
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue"></a></p>
 
 or 📫 ajadhav@stanford.edu
+
+// ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akjadhav&langs_count=4)
