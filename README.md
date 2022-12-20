@@ -24,4 +24,4 @@ Reach out to me on
 
 or 📫 ajadhav@stanford.edu
 
-// ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akjadhav&langs_count=4)
+[//]: # ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akjadhav&langs_count=4)
