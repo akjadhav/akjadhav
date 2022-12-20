@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ![Ameya's GitHub stats](https://github-readme-stats.vercel.app/api?username=akjadhav&show_icons=true&theme=react&count_private=true) &nbsp;&nbsp;&nbsp;&nbsp; ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akjadhav&langs_count=4)
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/akjadhav/langs)](https://githubtrends.io)
+
 Reach out to me on
 
 <p align="left">
