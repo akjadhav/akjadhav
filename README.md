@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- <p align="center">
+<p align="center">
 ![Ameya's GitHub stats](https://github-readme-stats.vercel.app/api?username=akjadhav&show_icons=true&theme=react&count_private=true) &nbsp;&nbsp;&nbsp;&nbsp; 
-</p> -->
+</p>
 
 
 
