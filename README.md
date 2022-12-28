@@ -21,13 +21,11 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  Reach out to me on
+  Reach out to me on 
   <a href="https://www.linkedin.com/in/ameyajadhav" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue"></a></p>
-  </a>
-
-  
-or 📫 ajadhav@stanford.edu
+  </a> 
+  or 📫 ajadhav@stanford.edu
 </p>
 
 Reach out to me on
