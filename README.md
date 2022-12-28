@@ -20,14 +20,16 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<p align="center">
-  Reach out to me on 
+<p>
+  <p align="center">
+    <samp> Reach out to me on 
   <a href="https://www.linkedin.com/in/ameyajadhav" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue"></a></p>
   </a> or 
   <a href="mailto:ajadhav@stanford.edu" target="_blank">
     📫 ajadhav@stanford.edu
-  </a> 
+  </a> </samp>
+  </p>
 </p>
 
 Reach out to me on
