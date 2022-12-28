@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <p align="center">
     <samp> Reach out to me on 
   <a href="https://www.linkedin.com/in/ameyajadhav" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue"></a></p>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue"></a>
   </a> or 
   <a href="mailto:ajadhav@stanford.edu" target="_blank">
     📫 ajadhav@stanford.edu
