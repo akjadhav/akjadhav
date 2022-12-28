@@ -32,11 +32,6 @@ Here are some ideas to get you started:
   </p>
 </p>
 
-Reach out to me on
-
-<p align="center">
-
-or 📫 ajadhav@stanford.edu
 
 <!--- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akjadhav&langs_count=4) 
 
