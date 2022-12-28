@@ -20,16 +20,19 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-![Ameya's GitHub stats](https://github-readme-stats.vercel.app/api?username=akjadhav&show_icons=true&theme=react&count_private=true) &nbsp;&nbsp;&nbsp;&nbsp; 
+<p align="center">
+  Reach out to me on
+  <a href="https://www.linkedin.com/in/ameyajadhav" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue"></a></p>
+  </a>
 
-
-
+  
+or 📫 ajadhav@stanford.edu
+</p>
 
 Reach out to me on
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ameyajadhav" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue"></a></p>
 
 or 📫 ajadhav@stanford.edu
 
