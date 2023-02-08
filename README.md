@@ -33,6 +33,11 @@ Here are some ideas to get you started:
       📫 ajadhav@stanford.edu
     </a> </samp>
   </p>
+  
+  <p align="center"> 
+    Visitor Count<br>
+    <img src="https://profile-counter.glitch.me/akjadhav/count.svg" />
+  </p>
 </p>
 
 
