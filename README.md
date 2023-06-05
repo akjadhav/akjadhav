@@ -38,6 +38,8 @@ Here are some ideas to get you started:
     Visitor Count<br>
     <img src="https://profile-counter.glitch.me/akjadhav/count.svg" />
   </p>
+  
+  <a href=#><img src="contributions.svg"></a>
 </p>
 
 
