@@ -13,6 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Hi, I'm Ameya 👋
+
+#### ... a CS student at Stanford, connect with me
+- [LinkedIn](https://www.linkedin.com/in/lukemoberly/)
+
 
 <p align="center">
 <!--   <a href="https://github.com/akjadhav">
