@@ -15,29 +15,26 @@ Here are some ideas to get you started:
 
 
 
-
 <div align="center">
     <!-- Profile Introduction -->
     <h2>Hi, I'm Ameya 👋</h2>
     
     <!-- Social Links -->
     <a href="https://www.linkedin.com/in/ameyajadhav" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue">
     </a>
     <br><br>
     
     <!-- Contact Information -->
-    <samp>
-      <a href="mailto:ajadhav@stanford.edu" target="_blank">
-        📫 ajadhav@stanford.edu
-      </a>
-    </samp>
+    <a href="mailto:ajadhav@stanford.edu" target="_blank">
+      📫 ajadhav@stanford.edu
+    </a>
     <br><br>
     
     <!-- Visitor Counter -->
     <div> 
         Visitor Count<br>
-        <img src="https://profile-counter.glitch.me/akjadhav/count.svg" />
+        <img alt="Visitor Count" src="https://profile-counter.glitch.me/akjadhav/count.svg" />
     </div>
 </div>
 
