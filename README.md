@@ -13,10 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi, I'm Ameya 👋
 
-#### ... a CS student at Stanford, connect with me
-- [LinkedIn](https://www.linkedin.com/in/lukemoberly/)
 
 
 <p align="center">
@@ -27,6 +24,10 @@ Here are some ideas to get you started:
 </p>
 
 <p>
+    <p align="center">
+    ### Hi, I'm Ameya 👋
+  </p>
+    
   <p align="center">
     <samp>
     <a href="https://www.linkedin.com/in/ameyajadhav" target="_blank">
@@ -44,11 +45,12 @@ Here are some ideas to get you started:
     <img src="https://profile-counter.glitch.me/akjadhav/count.svg" />
   </p>
   
-  <a href=#><img src="contributions.svg"></a>
+  
 </p>
 
 
 <!--- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akjadhav&langs_count=4) 
+ <a href=#><img src="contributions.svg"></a>
 
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/akjadhav/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://githubtrends.io)
