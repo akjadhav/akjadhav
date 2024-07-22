@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 [About me](https://www.ameyajadhav.xyz)
 
-<br />
+
 ![Visitor Count](https://profile-counter.glitch.me/akjadhav/count.svg)
 
 </div>
