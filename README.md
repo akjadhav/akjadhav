@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 
 # Hi, I'm Ameya 👋
 
-[Learn more](https://www.ameyajadhav.xyz)
+[About me](https://www.ameyajadhav.xyz)
 
+<br />
 ![Visitor Count](https://profile-counter.glitch.me/akjadhav/count.svg)
+Visitors
 
 </div>
 
