@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Ameya 👋
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ameyajadhav)
-<br>
-📫 [ajadhav@stanford.edu](mailto:ajadhav@stanford.edu)
+[Learn more](https://www.ameyajadhav.xyz)
 
 ![Visitor Count](https://profile-counter.glitch.me/akjadhav/count.svg)
 
