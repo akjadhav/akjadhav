@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Ameya 👋
 
-[Personal Website](https://www.ameyajadhav.xyz)
+[ameyajadhav.com](https://www.ameyajadhav.com)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/akjadhav/count.svg)
