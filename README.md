@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 
 
 
-<div align="center">
+<!-- <div align="center">
 
-# Hi, I'm Ameya 👋
+# Hi, I'm Ameya 👋 -->
 
 [ameyajadhav.com](https://www.ameyajadhav.com)
 
 
-![Visitor Count](https://profile-counter.glitch.me/akjadhav/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/akjadhav/count.svg)
 
-</div>
+</div> -->
 
 
 
